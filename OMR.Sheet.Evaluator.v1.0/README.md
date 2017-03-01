@@ -1,8 +1,8 @@
-OMR SHEET EVALUATOR V1.0
+**OMR SHEET EVALUATOR**
 
 This software evaluates an OMR sheet (Bubble sheet) based on the key provided by the user. Currently, it only supports Multiple Choice Questions (only 1 correct answer),
-however the code can easily be extended for Multiple Answer Questions too. OSE v1.0 makes extensive use of the OpenCV 3 library. 
-Built on Python by Sourav Johar.
+however the code can easily be extended for Multiple Answer Questions too. OSE makes extensive use of the OpenCV 3 library. 
+Built on Python.
 
 Dependencies:
 	Numpy
